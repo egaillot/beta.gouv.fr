@@ -26,9 +26,9 @@ missions:
     startups:
       - oots.once-only.technical.system
   - start: 2025-05-19
-    end: 2025-10-31
+    end: 2025-12-31
     status: independent
-    employer: Malt
+    employer: malt
     startups:
       - carbure
 competences: []
